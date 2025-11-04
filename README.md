@@ -86,5 +86,14 @@ A single main fact table was used (`Sales Data`), with date fields derived using
 ---
 
 ## 🗂️ Folder Structure
+Healthcare-Sales-Dashboard/
+├── data/ # raw + cleaned CSVs
+├── powerbi/ # Power BI .pbix file
+├── docs/ # report and documentation
+│ ├── summary_report.docx
+│ └── screenshots/
+├── ppt/ # storytelling presentation
+├── .gitignore
+└── README.md
 
 
